@@ -1,4 +1,4 @@
-## Project Structure
+## 📂 Project Structure
 
 world-life-expectancy-sql/
 │
@@ -8,10 +8,11 @@ world-life-expectancy-sql/
 │ └── 02_exploratory_analysis.sql
 
 
+## Code
 - **01_data_cleaning.sql** → Data cleaning and preprocessing
 - **02_exploratory_analysis.sql** → SQL queries for data analysis and insights
 
-- ## Workflow
+- ## 🔄 Workflow
 
 1. Data Cleaning  
    - Handle missing values  
@@ -23,7 +24,8 @@ world-life-expectancy-sql/
    - Compare GDP vs life expectancy  
    - Evaluate BMI and mortality impact
   
-   - ## Key Insights
+
+## 📊 Key Insights
 
 - Higher GDP is generally associated with higher life expectancy  
 - Global life expectancy has increased over time  
